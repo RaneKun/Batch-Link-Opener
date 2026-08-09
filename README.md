@@ -3,6 +3,7 @@
 ![Batch Script](https://img.shields.io/badge/script-batch-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D4.svg)
 ![Links](https://img.shields.io/badge/batch-opens%20all%20links-orange.svg)
+![License](https://img.shields.io/badge/RaneKun-Open--Use--License-yellow.svg)
 
 A simple Windows batch script that automatically finds a text file in the current directory and opens every URL from it in your default browser. Perfect for when you have a list of links to visit without clicking each one manually.
 

@@ -2,7 +2,7 @@
 
 **Copyright © RaneKun**
 
-This license governs the use, modification, and distribution of the **batch-link-opener** project and all files included with it.
+This license governs the use, modification, and distribution of the **Batch Link Opener** project and all files included with it.
 
 ---
 
